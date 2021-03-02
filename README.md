@@ -14,3 +14,8 @@ Extract and transform Kaggle and MovieLens rating data.
 Create the Movie database.
 
 Results
+
+![movies_query](https://user-images.githubusercontent.com/74233163/109625132-9122e180-7b04-11eb-9971-349821a6c652.png)
+
+
+![ratings_query](https://user-images.githubusercontent.com/74233163/109625135-91bb7800-7b04-11eb-9dac-23c9708f705a.png)
