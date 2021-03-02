@@ -8,10 +8,10 @@ Amazing Prime loves the dataset and wants to keep it updated on a daily basis. B
 Project Deliverables
 
 
-Write an ETL function to read three data files.
-Extract and transform Wikipedia data.
-Extract and transform Kaggle and MovieLens rating data.
-Create the Movie database.
+ 1. Write an ETL function to read three data files.
+ 2. Extract and transform Wikipedia data.
+ 3. Extract and transform Kaggle and MovieLens rating data.
+ 4. Create the Movie database.
 
 Results
 
